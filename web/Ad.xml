@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>pic/blg.jpg</ImageUrl>
+    <Caption>Boys Like Girls</Caption>
+    <AlternateText>Boys Like Girls</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>pic/atl.jpg</ImageUrl>
+    <Caption>All Time Low</Caption>
+    <AlternateText>All Time Low</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>pic/hm.jpg</ImageUrl>
+    <Caption>Hey Monday</Caption>
+    <AlternateText>Hey Monday</AlternateText>
+  </Ad>
+</Advertisements>

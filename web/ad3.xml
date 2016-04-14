@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>pic/fd.jpg</ImageUrl>
+    <Caption>Faber Drive</Caption>
+    <AlternateText>Faber Drive</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>pic/wtk.jpg</ImageUrl>
+    <Caption>We The Kings</Caption>
+    <AlternateText>We The Kings</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>pic/ta.jpg</ImageUrl>
+    <Caption>Tonight Alive</Caption>
+    <AlternateText>Tonight Alive</AlternateText>
+  </Ad>
+</Advertisements>

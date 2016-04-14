@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>pic/p.jpg</ImageUrl>
+    <Caption>Paramore</Caption>
+    <AlternateText>Paramore</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>pic/gd.jpg</ImageUrl>
+    <Caption>Green Day</Caption>
+    <AlternateText>Green Day</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>pic/sp.jpg</ImageUrl>
+    <Caption>Simple Plan</Caption>
+    <AlternateText>Simple Plan</AlternateText>
+  </Ad>
+</Advertisements>
